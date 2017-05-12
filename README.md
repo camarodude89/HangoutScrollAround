@@ -12,6 +12,10 @@ conversations without great difficulty. It is possible to "semi-navigate" using
 some fancy <kbd>Tab</kbd> work, but usually I am unable to navigate to the very
 bottom of the conversation.
 
+Two-finger scrolling is also an option if you are using a laptop and the
+touchpad supports it. My laptop touchpad's two-finger scrolling is a little
+unwieldy, so for me, arrow keys it is.
+
 ## Script Usage
 
 To use the script, Hangouts must be the active window, otherwise the script would
